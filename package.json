@@ -1,0 +1,22 @@
+{
+  "name": "demo-ci-githubactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/suma.test.js",
+    "build": "echo \"Construyendo el proyecto...\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalvadorZeledon/demo-ci-githubactions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SalvadorZeledon/demo-ci-githubactions/issues"
+  },
+  "homepage": "https://github.com/SalvadorZeledon/demo-ci-githubactions#readme"
+}
